@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
-* [Introduction to MythOS](introduction.md)
+* [Introduction to MythOS](README.md)
 * [Core Components of MythOS](core-components.md)
 * [How MythOS Simulations Work](simulations-work.md)
 * [Why MythOS is More Than a Simulator](why-more-than-a-simulator.md)
